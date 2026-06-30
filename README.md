@@ -81,7 +81,7 @@ These go beyond the syllabus but make the biggest difference in actual interview
 
 Use this checklist each week:
 
-- [ ] Wrote code by hand — no copy-pasting solutions
+- [ ] Wrote code by hand; no copy-pasting solutions
 - [ ] Can explain the week's core concept without notes
 - [ ] Annotated code with Big O complexity
 - [ ] Tested with edge cases, not just the happy path
@@ -91,4 +91,4 @@ Use this checklist each week:
 
 ## Notes
 
-This roadmap assumes prior basic familiarity with Java syntax. Adjust pacing as needed — consistency matters more than speed.
+This roadmap assumes prior basic familiarity with Java syntax. Adjust pacing as needed; consistency matters more than speed.
